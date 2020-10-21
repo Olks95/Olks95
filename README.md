@@ -1,6 +1,6 @@
 ### Hi, I'm Ole - aka Olks!
 
-## I'm a Husband, Dog Owner, Gamer and hope to become a Developer!
+### I'm a Husband, Dog Owner, Gamer and hope to become a Developer!
 - I'm focusing my programming on JSReact
 - I'm in love with the ES7 react hooks
 - I would love to work with other programmers and improve
@@ -26,6 +26,10 @@
 
 <br />
 <br />
+
+---
+
+<img align="left" alt="Olks95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Olks95&count_private=true&show_icons=true&hide_border=true&theme=tokyonight"
 
 [youtube]: https://www.youtube.com/channel/UCKYSXZq3gT0RvGLjOtW9nbg
 [twitter]: https://twitter.com/Olks95
