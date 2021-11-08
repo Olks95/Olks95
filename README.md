@@ -4,7 +4,7 @@
 - :computer: I'm focusing my programming on JSReact
 - :fishing_pole_and_fish: I'm in love with the ES7 react hooks
 - :zap: I would love to work with other programmers and improve
-- :floppy_disk: I currently work in IT as an admin with focus on Mobile Devices
+- :floppy_disk: I currently work in IT as an admin with focus on Microsoft System Center Configuration Manager (SCCM)
 - :seedling: I am relatively fresh to the front-end developer environment, slowly building my skillset
 - :dart: 2021 Goals: Get a job as a Developer
 - :game_die: Hobbies: I used to draw, now I play D&D, boardgames and PC games
