@@ -1,6 +1,6 @@
 ### Hi, I'm Ole - aka Olks!
 
-### I'm a Husband, Dog Owner, Gamer and a future Developer!
+### I'm a Dog Owner, Gamer and a Developer!
 - :computer: I'm focusing my programming on JSReact
 - :fishing_pole_and_fish: I'm in love with the ES7 react hooks
 - :zap: I would love to work with other programmers and improve
@@ -11,13 +11,9 @@
 
 ### Connect with me:
 [<img align="left" alt="Olks | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Olks95 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ole Kristian Sævareid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### Projects in Production:
-www.syramusic.com
 
 ### Languages and Tools:
 
